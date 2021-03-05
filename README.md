@@ -1,8 +1,8 @@
-# SU Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
+# Bot To Play Music In Telegram Voice Chats
 
 ## Note
 
-Neither this, or PyTgCalls are fully stable.
+Neither This, or PyTgCalls Are Fully Stable.
 
 ## Requirements
 
@@ -40,11 +40,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nxthsara/pyrovoicechatsheroku/)
 
 
 ## Credits
 
-- [Roj](https://github.com/rojserbest): main developer
-- [Marvin](https://github.com/BlackStoneReborn): bug reporter
+- [Roj](https://github.com/rojserbest): Main Developer
+- [Marvin](https://github.com/BlackStoneReborn): Bug Reporter
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
